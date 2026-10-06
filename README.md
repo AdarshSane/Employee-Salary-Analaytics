@@ -1,4 +1,4 @@
-# 💼 Employee Salary Analytics
+# Employee Salary Analytics
 
 An end-to-end Machine Learning project that predicts an employee's salary based on demographic, educational, and professional information. The project also provides salary benchmarking, what-if analysis, and interactive salary analytics through a Streamlit dashboard.
 
