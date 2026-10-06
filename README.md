@@ -33,11 +33,7 @@ Employee-Salary-Intelligence/
 ├── data/
 │   └── Salary Data.csv
 │
-├── notebooks/
-│   └── Salary_Prediction.ipynb
-│
-├── models/
-│
+├── Salary_Prediction.ipynb
 ├── app.py
 ├── salary_prediction_pipeline.pkl
 ├── feature_importance.csv
@@ -219,7 +215,7 @@ The application displays grouped feature importance to show which original input
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/AdarshSane/Employee-Salary-Analaytics)
 cd Employee-Salary-Intelligence
 ```
 
